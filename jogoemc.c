@@ -1,277 +1,198 @@
-[
-  {
-    "pergunta": "Qual é o maior planeta do Sistema Solar?",
-    "alternativas": [
-      "a) Marte",
-      "b) Terra",
-      "c) Júpiter",
-      "d) Saturno"
-    ],
-    "resposta": "c",
-    "nivel": 1
-  },
-  {
-    "pergunta": "Qual animal é conhecido como 'Rei da Selva'?",
-    "alternativas": [
-      "a) Tigre",
-      "b) Leão",
-      "c) Elefante",
-      "d) Urso"
-    ],
-    "resposta": "b",
-    "nivel": 1
-  },
-  {
-    "pergunta": "Qual capital é famosa por ter a Torre Eiffel?",
-    "alternativas": [
-      "a) Roma",
-      "b) Londres",
-      "c) Madri",
-      "d) Paris"
-    ],
-    "resposta": "d",
-    "nivel": 1
-  },
-  {
-    "pergunta": "Quantos lados tem um triângulo?",
-    "alternativas": [
-      "a) Dois",
-      "b) Três",
-      "c) Quatro",
-      "d) Cinco"
-    ],
-    "resposta": "b",
-    "nivel": 1
-  },
-  {
-    "pergunta": "Qual é a cor primária que falta em um semáforo (além de vermelho e amarelo)?",
-    "alternativas": [
-      "a) Azul",
-      "b) Laranja",
-      "c) Verde",
-      "d) Roxo"
-    ],
-    "resposta": "c",
-    "nivel": 1
-  },
-  {
-    "pergunta": "Qual é a fórmula química da água?",
-    "alternativas": [
-      "a) CO2",
-      "b) O2",
-      "c) H2O",
-      "d) NaCl"
-    ],
-    "resposta": "c",
-    "nivel": 2
-  },
-  {
-    "pergunta": "Quem escreveu a famosa peça 'Romeu e Julieta'?",
-    "alternativas": [
-      "a) Charles Dickens",
-      "b) William Shakespeare",
-      "c) Machado de Assis",
-      "d) Homero"
-    ],
-    "resposta": "b",
-    "nivel": 2
-  },
-  {
-    "pergunta": "Qual é o maior oceano do mundo?",
-    "alternativas": [
-      "a) Oceano Atlântico",
-      "b) Oceano Índico",
-      "c) Oceano Ártico",
-      "d) Oceano Pacífico"
-    ],
-    "resposta": "d",
-    "nivel": 2
-  },
-  {
-    "pergunta": "Qual é a capital do Japão?",
-    "alternativas": [
-      "a) Pequim",
-      "b) Seul",
-      "c) Tóquio",
-      "d) Bangkok"
-    ],
-    "resposta": "c",
-    "nivel": 2
-  },
-  {
-    "pergunta": "Quantos continentes existem no mundo?",
-    "alternativas": [
-      "a) 5",
-      "b) 6",
-      "c) 7",
-      "d) 8"
-    ],
-    "resposta": "c",
-    "nivel": 2
-  },
-  {
-    "pergunta": "Quem pintou a 'Mona Lisa'?",
-    "alternativas": [
-      "a) Vincent van Gogh",
-      "b) Pablo Picasso",
-      "c) Leonardo da Vinci",
-      "d) Michelangelo"
-    ],
-    "resposta": "c",
-    "nivel": 3
-  },
-  {
-    "pergunta": "Qual é a substância natural mais dura da Terra?",
-    "alternativas": [
-      "a) Ouro",
-      "b) Ferro",
-      "c) Quartzo",
-      "d) Diamante"
-    ],
-    "resposta": "d",
-    "nivel": 3
-  },
-  {
-    "pergunta": "Em que ano o Titanic afundou?",
-    "alternativas": [
-      "a) 1905",
-      "b) 1912",
-      "c) 1918",
-      "d) 1923"
-    ],
-    "resposta": "b",
-    "nivel": 3
-  },
-  {
-    "pergunta": "Qual é o principal gás que compõe a atmosfera terrestre?",
-    "alternativas": [
-      "a) Oxigênio",
-      "b) Dióxido de Carbono",
-      "c) Nitrogênio",
-      "d) Hidrogênio"
-    ],
-    "resposta": "c",
-    "nivel": 3
-  },
-  {
-    "pergunta": "Qual organela é conhecida como a 'usina de energia' da célula?",
-    "alternativas": [
-      "a) Núcleo",
-      "b) Ribossomo",
-      "c) Mitocôndria",
-      "d) Lisossomo"
-    ],
-    "resposta": "c",
-    "nivel": 3
-  },
-  {
-    "pergunta": "Quem desenvolveu a teoria da relatividade geral?",
-    "alternativas": [
-      "a) Isaac Newton",
-      "b) Galileu Galilei",
-      "c) Nikola Tesla",
-      "d) Albert Einstein"
-    ],
-    "resposta": "d",
-    "nivel": 4
-  },
-  {
-    "pergunta": "Qual é o menor país do mundo?",
-    "alternativas": [
-      "a) Mônaco",
-      "b) Vaticano",
-      "c) San Marino",
-      "d) Liechtenstein"
-    ],
-    "resposta": "b",
-    "nivel": 4
-  },
-  {
-    "pergunta": "Qual elemento químico tem o número atômico 1?",
-    "alternativas": [
-      "a) Hélio",
-      "b) Oxigênio",
-      "c) Hidrogênio",
-      "d) Carbono"
-    ],
-    "resposta": "c",
-    "nivel": 4
-  },
-  {
-    "pergunta": "Qual é a velocidade da luz no vácuo (aproximadamente)?",
-    "alternativas": [
-      "a) 150.000 km/s",
-      "b) 300.000 km/s",
-      "c) 450.000 km/s",
-      "d) 600.000 km/s"
-    ],
-    "resposta": "b",
-    "nivel": 4
-  },
-  {
-    "pergunta": "Na mitologia grega, quem é o deus do mar?",
-    "alternativas": [
-      "a) Zeus",
-      "b) Hades",
-      "c) Apolo",
-      "d) Poseidon"
-    ],
-    "resposta": "d",
-    "nivel": 4
-  },
-  {
-    "pergunta": "Qual princípio da física afirma que um corpo em repouso tende a permanecer em repouso?",
-    "alternativas": [
-      "a) Lei da Gravitação Universal",
-      "b) Segunda Lei de Newton",
-      "c) Primeira Lei de Newton (Inércia)",
-      "d) Princípio de Arquimedes"
-    ],
-    "resposta": "c",
-    "nivel": 5
-  },
-  {
-    "pergunta": "Qual é a linguagem com o maior número de falantes nativos no mundo?",
-    "alternativas": [
-      "a) Inglês",
-      "b) Espanhol",
-      "c) Hindi",
-      "d) Mandarim"
-    ],
-    "resposta": "d",
-    "nivel": 5
-  },
-  {
-    "pergunta": "Qual foi o primeiro ser humano a pisar na Lua?",
-    "alternativas": [
-      "a) Yuri Gagarin",
-      "b) Buzz Aldrin",
-      "c) Neil Armstrong",
-      "d) Michael Collins"
-    ],
-    "resposta": "c",
-    "nivel": 5
-  },
-  {
-    "pergunta": "Em que camada da atmosfera a maioria dos fenômenos meteorológicos ocorre?",
-    "alternativas": [
-      "a) Estratosfera",
-      "b) Mesosfera",
-      "c) Termosfera",
-      "d) Troposfera"
-    ],
-    "resposta": "d",
-    "nivel": 5
-  },
-  {
-    "pergunta": "Qual o nome do supercontinente que existiu há cerca de 300 milhões de anos?",
-    "alternativas": [
-      "a) Laurásia",
-      "b) Gondwana",
-      "c) Pangeia",
-      "d) Rodínia"
-    ],
-    "resposta": "c",
-    "nivel": 5
-  }
-]
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <unistd.h>
+
+#define LINHAS_POR_PERGUNTA 8 // Pergunta + 4x Alternativas + Resposta + Linha em branco
+#define MAX_LINHA 256         // Tamanho máximo de uma linha da pergunta
+
+/*
+ ====================================================================
+   SUA FUNÇÃO 'lerArquivo' (DO SEGUNDO CÓDIGO)
+   - Agora lendo "perguntas.txt"
+ ====================================================================
+*/
+void lerArquivo(const char *nomeArquivo) {
+    FILE *arquivo;
+    char caractere;
+
+    arquivo = fopen(nomeArquivo, "r");
+    if (arquivo == NULL) {
+        printf("Erro: Não foi possível abrir o arquivo %s\n", nomeArquivo);
+        return;
+    }
+
+    printf("\n--- Imprimindo lentamente '%s' ---\n", nomeArquivo);
+    while ((caractere = fgetc(arquivo)) != EOF) {
+        putchar(caractere);
+        fflush(stdout);     // Garante impressão imediata
+    }
+    printf("\n--- Fim da impressao ---\n");
+    fclose(arquivo);
+}
+
+/*
+ ====================================================================
+   NOVO: Estrutura para guardar a pergunta
+   Isso é muito mais fácil que lidar com JSON.
+ ====================================================================
+*/
+typedef struct {
+    char texto[MAX_LINHA];
+    char alternativas[4][MAX_LINHA];
+    int resposta_correta; // Guardamos como número
+} Pergunta;
+
+
+// Função auxiliar para remover o '\n' que o fgets() deixa no final
+void trim_newline(char *str) {
+    int len = strlen(str);
+    if (len > 0 && str[len - 1] == '\n') {
+        str[len - 1] = '\0';
+    }
+}
+
+/*
+ ====================================================================
+   NOVO: A função principal de leitura (Substitui o cJSON)
+   - Ela busca a pergunta 'numero_pergunta' no TXT
+   - E preenche a struct 'p' com os dados
+ ====================================================================
+*/
+int buscarPerguntaNoTxt(int numero_pergunta, Pergunta *p) {
+    FILE *fp = fopen("perguntas.txt", "r");
+    if (fp == NULL) {
+        printf("ERRO: Nao foi possivel abrir o 'perguntas.txt'\n");
+        return 1;
+    }
+
+    // 1. Pular para a pergunta correta
+    // Ex: para pegar a pergunta 5 (índice 4), pulamos 4 * 7 = 28 linhas
+    int linhas_para_pular = numero_pergunta * LINHAS_POR_PERGUNTA;
+    char buffer_lixo[MAX_LINHA];
+    
+    for (int i = 0; i < linhas_para_pular; i++) {
+        if (fgets(buffer_lixo, MAX_LINHA, fp) == NULL) {
+            printf("ERRO: Arquivo terminou antes de achar a pergunta %d\n", numero_pergunta);
+            fclose(fp);
+            return 1; // Erro, arquivo inesperado
+        }
+    }
+
+    // 2. Ler os dados da pergunta
+    if (fgets(p->texto, MAX_LINHA, fp) == NULL) return 1;
+    if (fgets(p->alternativas[0], MAX_LINHA, fp) == NULL) return 1;
+    if (fgets(p->alternativas[1], MAX_LINHA, fp) == NULL) return 1;
+    if (fgets(p->alternativas[2], MAX_LINHA, fp) == NULL) return 1;
+    if (fgets(p->alternativas[3], MAX_LINHA, fp) == NULL) return 1;
+    
+    // 3. Ler a resposta (como texto) e converter para número
+    char buffer_resposta[MAX_LINHA];
+    if (fgets(buffer_resposta, MAX_LINHA, fp) == NULL) return 1;
+
+    // 4. Limpar o '\n' do final de cada linha lida
+    trim_newline(p->texto);
+    trim_newline(p->alternativas[0]);
+    trim_newline(p->alternativas[1]);
+    trim_newline(p->alternativas[2]);
+    trim_newline(p->alternativas[3]);
+    
+    p->resposta_correta = atoi(buffer_resposta); // atoi = "ascii to integer"
+
+    fclose(fp);
+    return 0; // Sucesso
+}
+
+
+/*
+ ====================================================================
+   SUA FUNÇÃO 'main' (DO PRIMEIRO CÓDIGO)
+   - Agora usando a lógica do TXT
+ ====================================================================
+*/
+int main() {
+    srand(time(NULL));
+    int errou = 0;
+    int vitoria = 0;
+    int n = 0; // Nível atual (0 a 4)
+
+    while (errou == 0 && vitoria == 0) {
+        char menu_choice;
+        int numero_pergunta = 0;
+        switch (n) {
+            case 0: numero_pergunta = (rand() % 5); break;
+            case 1: numero_pergunta = (rand() % 5) + 5; break;
+            case 2: numero_pergunta = (rand() % 5) + 10; break;
+            case 3: numero_pergunta = (rand() % 5) + 15; break;
+            case 4: numero_pergunta = (rand() % 5) + 20; break;
+        }
+
+        /*
+         -----------------------------------------------------------------
+         ALTERAÇÃO: Aqui chamamos nossa nova função
+         Em vez de cJSON, usamos buscarPerguntaNoTxt
+         -----------------------------------------------------------------
+        */
+        Pergunta p; // Cria uma struct para guardar os dados
+        if (buscarPerguntaNoTxt(numero_pergunta, &p) != 0) {
+            printf("Erro ao ler a pergunta %d. Saindo.\n", numero_pergunta);
+            return 1; // Sai do jogo se deu erro
+        }
+        
+        // Imprime a pergunta lida da struct
+        printf("\nNivel %d - Pergunta %d:\n", n + 1, numero_pergunta + 1);
+        printf("%s\n", p.texto); 
+        printf("-----------------------------------\n");
+        printf("1) %s\n", p.alternativas[0]);
+        printf("2) %s\n", p.alternativas[1]);
+        printf("3) %s\n", p.alternativas[2]);
+        printf("4) %s\n", p.alternativas[3]);
+        
+        
+        // Imprime o menu de AÇÃO
+        printf("\n1) Responder pergunta\n");
+        printf("2) Sair do jogo\n");
+        printf("3) Utilizar acao especial (Nao implementado)\n");
+        printf("Escolha uma opcao: ");
+        
+        scanf(" %c", &menu_choice);
+        
+        switch (menu_choice) {
+            case '1': { 
+                char resposta_usuario_char;
+                printf("Digite sua resposta (1-4): ");
+                scanf(" %c", &resposta_usuario_char);
+
+                // Converte o char '1' para o int 1
+                int resposta_usuario_int = resposta_usuario_char - '0';
+
+                // Compara a resposta com a struct
+                if (p.resposta_correta == resposta_usuario_int) {
+                    printf("\nCERTA RESPOSTA!\n");
+                    n++;
+                    if (n == 5) {
+                        printf("\nParabens, VC ganhou!!!!\n");
+                        vitoria = 1;
+                    }
+                } else {
+                    printf("\nResposta errada! A resposta correta era %d. Fim de jogo.\n", p.resposta_correta);
+                    errou = 1;
+                }
+                break;
+            }
+            case '2':
+                printf("Saindo do jogo...\n");
+                errou = 1;
+                break;
+            case '3':
+                printf("Acao especial ainda nao implementada.\n");
+                break;
+            default:
+                printf("Opcao invalida, tente novamente.\n");
+                break;
+        }
+    }
+    
+    return 0;
+}
